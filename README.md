@@ -1,9 +1,9 @@
-# IAZO - "Initial Ape Zone Offering"
+# IAZO - "Initial * Zone Offering"
   
-IAZOs are self serve initial token offering contracts. New tokens that have yet to be released in circulation can be put up for sale with these contracts. If the sale is successful, then an APE-LP liquidity pair is automatically created on the ApeSwap DEX. A portion of the proceeds are put into liquidity and locked in a vesting contract while the creator of the IAZO is sent the rest. 
+IAZOs are self serve initial token offering contracts. New tokens that have yet to be released in circulation can be put up for sale with these contracts. If the sale is successful, then an *-LP liquidity pair is automatically created on the ** DEX. A portion of the proceeds are put into liquidity and locked in a vesting contract while the creator of the IAZO is sent the rest. 
 
 # Development
-[![CI](https://github.com/ApeSwapFinance/apeswap-iazo/actions/workflows/CI.yml/badge.svg)](https://github.com/ApeSwapFinance/apeswap-iazo/actions/workflows/CI.yml)
+[![CI](https://github.com/**Finance/**-iazo/actions/workflows/CI.yml/badge.svg)](https://github.com/**Finance/**-iazo/actions/workflows/CI.yml)
 
 * [IAZO Documentation](docs/)
 ## Tools
@@ -111,6 +111,6 @@ IAZO settings are configured in the [IAZOSettings](./contracts/IAZOSettings.sol)
 ## IAZO Architecture
 
 
-<img src="images/ApeSwap-IAZO-Architecture.png">
+<img src="images/**-IAZO-Architecture.png">
 
 
